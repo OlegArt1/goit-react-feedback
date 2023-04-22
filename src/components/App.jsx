@@ -1,6 +1,6 @@
 import { Section } from "./Statistics/Section";
 
-export const App = () => {
+export const StatisticsApp = () => {
   return (
       <div>
             <Section title="" />
