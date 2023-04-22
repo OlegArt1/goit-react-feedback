@@ -1,4 +1,4 @@
-import { Section } from "./Statistics/Section";
+import { Section } from "./statistics/Section";
 
 export const StatisticsApp = () => {
   return (
